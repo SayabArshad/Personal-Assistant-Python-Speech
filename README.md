@@ -93,9 +93,11 @@ This project is a beginner‑friendly introduction to building a voice‑control
 
 ## 🧑‍💻 Author
 
-Developed by: Sayab Arshad Soduzai 👨‍💻
-📅 Version: 1.0.0
-📜 License: MIT License
+**Developed by:** [Sayab Arshad Soduzai](https://github.com/SayabArshad) 👨‍💻
+
+📅 **Version:** 1.0.0
+
+📜 **License:** MIT License
 
 ---
 
@@ -109,7 +111,7 @@ If you find this project helpful, please ⭐ star the repository to show your su
 
 ## 📧 Contact
 
-For queries, collaborations, or feedback, reach out at sayabarshad789@gmail.com
+For queries, collaborations, or feedback, reach out at **[sayabarshad789@gmail.com](mailto:sayabarshad789@gmail.com)**
 
 ---
 
